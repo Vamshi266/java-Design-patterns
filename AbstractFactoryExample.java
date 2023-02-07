@@ -1,4 +1,4 @@
-
+//added code
 interface Color {
 	String getColor();
 }
